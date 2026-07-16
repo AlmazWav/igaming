@@ -1,9 +1,9 @@
 <?php
 
 $config = array(
-    'db_user' => 'u523120494_exclusivo',
-    'db_pass' => '8;jbH@dL;',
-    'db_name' => 'u523120494_exclusivo',
+    'db_user' => 'u724688435_almaz',
+    'db_pass' => 'Almaz999!',
+    'db_name' => 'u724688435_almaz',
     'db_host' => 'localhost'
 );
 

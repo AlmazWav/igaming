@@ -10,3 +10,8 @@ Thumbs.db
 *.njsproj
 *.sln
 *.swp
+
+# Sensitive data and scripts
+import_db.php
+*.sql
+*.txt
